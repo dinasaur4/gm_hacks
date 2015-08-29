@@ -105,7 +105,7 @@
 }
 .btn-success:hover,
 .btn-success:focus {
-  background-color: #419641;
+  background-color: mediumblue;
   background-position: 0 -15px;
 }
 .btn-success:active,
